@@ -89,10 +89,12 @@ Requirements:
 ```
 
 ### 2. Card Format (Team With Repository)
-Each card should have a basic format that remains consistent. Here's how a template for a team with a repository should look like:
+Each card should have a basic format that remains consistent. The format shown in the *Card Format (Team Without Repository)* guideline above should be also used for teams that have one or more repositories.
+
+In addition, the cards can be linked to issues and PRs created under that team's repositories.
 
 ### 3. Card Assignments
-Cards should be assigned to one or more team members before transferred to the **In progress** column.
+Cards should be assigned to one or more team members before being transferred to the **In progress** column.
 
 ### 4. Card Transfer
 Card transfers to **To Do** should occur only if a new task is required.
