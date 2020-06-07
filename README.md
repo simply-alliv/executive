@@ -7,12 +7,15 @@ For quick navibation:
 - [Overview](#overview)
 - [The Teams](#teams)
 - [Code of Conduct](#coc)
+- [Contributing](#contributing)
 
 ## <a name="welcome"></a> Welcome
-Welcome to the HNG Team Fury organization. This is where we will all (backend, frontend, mobile, and design) be coordinating and sharing our work.
+Welcome to the HNG Team Fury organization. This is where we will all (backend, frontend, mobile, and design) be coordinating, sharing, and collaborating.
 
 ## <a name="overview"></a> Overview
-We will be coordinating our work through teams. Teams will each have their own repository and project board. The repository is where all work will be located while the project board os where all team tasks (cards) will be located. The team tasks (cards) in the project board will be organized by To Do, In Progress, and Done. This is an agile process of project management. The team tasks (cards) are modular tasks that add up to the main task of each team. This allows each team to split the work efficiently while working together towards a common goal.
+We will be coordinating our work through teams. Each team will each have its own repository and project board. The repository is where all work will be located while the project board os where all team tasks (cards) will be located. The team tasks (cards) in the project board will be organized by To Do, In Progress, and Done.
+
+This is an agile process of project management. The team tasks (cards) are modular tasks that add up to the main task of each team. This allows each team to split the work efficiently while working together towards a common goal.
 
 All members are to be added to one of the available teams, if you are not part of the team yet please contact [insert contact of person responsible].
 
