@@ -75,6 +75,10 @@ There are mainly 4 active teams. The other non-active teams are there to support
 
 1. [Executive Team](https://github.com/orgs/hng-teamfury-org/teams/executive-team)
 2. [DevOps Team](https://github.com/orgs/hng-teamfury-org/teams/devops-team)
+3. [Operations Team](https://github.com/orgs/hng-teamfury-org/teams/operations-team)
+4. [Documentation Team](https://github.com/orgs/hng-teamfury-org/teams/documentation-team) (under Operations Team)
+5. [Research Team](https://github.com/orgs/hng-teamfury-org/teams/research-team) (under Operations Team)
+6. [Marketing Team](https://github.com/orgs/hng-teamfury-org/teams/marketing-team) (under Operations Team)
 
 ## <a name="coc"></a> Code of Conduct
 Please read HNG Team Fury's [Code of Conduct](https://github.com/hng-teamfury-org/executive/blob/master/CODE_OF_CONDUCT.md). It is important that you follow the code to ensure that everyone remains professional and fair.
