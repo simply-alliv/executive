@@ -32,4 +32,4 @@ There are mainly 4 active teams. The other non-active teams are there to support
 2. [DevOps Team](https://github.com/orgs/hng-teamfury-org/teams/devops-team)
 
 ## <a name="coc"></a> Code of Conduct
-Please read HNG Team Fury's Code of Conduct. It is important that you follow the code to ensure that everyone remains professional and fair. 
+Please read HNG Team Fury's [Code of Conduct](https://github.com/hng-teamfury-org/executive/blob/master/CODE_OF_CONDUCT.md). It is important that you follow the code to ensure that everyone remains professional and fair. 
