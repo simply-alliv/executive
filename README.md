@@ -5,6 +5,7 @@ For quick navigation:
 
 - [Welcome](#welcome)
 - [Overview](#overview)
+- [Organizational Structure](#orgstructure)
 - [The Teams](#teams)
 - [Code of Conduct](#coc)
 - [Contributing](#contributing)
@@ -19,28 +20,27 @@ This is an agile process of project management. The team tasks (cards) are modul
 
 All members are to be added to one of the available teams, if you are not part of the team yet please contact [insert contact of person responsible].
 
-## The Executive
+## <a name="orgstructure"></a> Organizational Structure
 The executive team is composed of the team lead and its deputies and helpers. The team is the most accountable and has the responsibility of ensuring that the all the teams work efficiently and effectively as a whole to reach a common goal.
 
 If any one has an enquiry, contact one of the helpers of your respective team. The contacted helper will then respond, but if they cannot respond, the enquiry will be escalated to the deputy of your respective team. If the deputy cannot respond, the the enquiry will be escalated to the team lead for a final response.
 
-### Organizational Structure
-#### Team Lead
+### Team Lead
 - [@piouson](https://github.com/piouson)
 
-#### Deputies
+### Deputies
 
-#### Executive Helpers
+### Executive Helpers
 
-#### Backend Helpers
+### Backend Helpers
 
-#### Frontend Helpers
+### Frontend Helpers
 
-#### Mobile Helpers
+### Mobile Helpers
 
-#### Design Helpers
+### Design Helpers
 
-#### DevOps Helpers
+### DevOps Helpers
 
 ## <a name="teams"></a> The Teams
 There are mainly 4 active teams. The other non-active teams are there to support the 4 active teams in achieving their goals and objectives efficiently and effectively.
