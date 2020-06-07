@@ -29,18 +29,37 @@ If any one has an enquiry, contact one of the helpers of your respective team. T
 - [@piouson](https://github.com/piouson)
 
 ### Deputies
+#### Frontend Deputy
+- [@codessage](https://github.com/codessage)
+
+#### Backend Deputy
+- [@dave-ok](https://github.com/dave-ok)
+
+#### Mobile Deputy
+
+#### Design Deputy
+- [@G4Coder](https://github.com/G4Coder)
+
+#### DevOps Deputy
+- [@IsmailMuhammed2019](https://github.com/IsmailMuhammed2019)
 
 ### Executive Helpers
+None
 
 ### Backend Helpers
+None
 
 ### Frontend Helpers
+None
 
 ### Mobile Helpers
+None
 
 ### Design Helpers
+None
 
 ### DevOps Helpers
+None
 
 ## <a name="teams"></a> The Teams
 There are mainly 4 active teams. The other non-active teams are there to support the 4 active teams in achieving their goals and objectives efficiently and effectively.
