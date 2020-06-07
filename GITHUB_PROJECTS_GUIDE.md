@@ -6,7 +6,7 @@ For quick navigation:
 - [Overview](#overview)
 - [Why we use GitHub Projects](#whygp)
 - [GitHub Project Components](#gpcomponents)
-- [Guideline](#guideline)
+- [Guidelines](#guidelines)
 
 ## <a name="overview"></a> Overview
 GitHub Projects are a project management tool. The Projects are meant to keep the team transparent and on schedule. Projects are made up of project boards that have 3 columns:
@@ -25,33 +25,38 @@ We want to be world-class developers after this whole journey ends. So our team 
 ## <a name="gpcomponents"></a> GitHub Project Components
 There are 4 main components of GitHub Projects that you should know about. Namely:
 
-1. [Project Board](#gpcomponents-project-board)
-2. [**To do** Column](#gpcomponents-to-do-column)
-3. [**In progress** Column](#gpcomponents-in-progress-column)
-4. [**Done** Column](#gpcomponents-done-column)
+- [Project Board Component](#gpcomponents-project-board)
+- [**To do** Column Component](#gpcomponents-to-do-column)
+- [**In progress** Column Component](#gpcomponents-in-progress-column)
+- [**Done** Column Component](#gpcomponents-done-column)
 
-### <a name="gpcomponents-project-board"></a> 1. Project Board
+### <a name="gpcomponents-project-board"></a> Project Board Component
 The Project board is basically just container for all columns.
 
-### <a name="gpcomponents-to-do-column"></a> 2. **To do** Column
+### <a name="gpcomponents-to-do-column"></a> **To do** Column Component
 The first column in the Project Board. This column is responsible for containing all cards (tasks) that a team would have to finish by a certain deadline.
 
 These cards are under the **To do** column. This means that these would be cards (tasks) that haven't been assigned to anyone to work on yet.
 
-### <a name="gpcomponents-in-progress-column"></a> 3. **In progress** Column
+### <a name="gpcomponents-in-progress-column"></a> **In progress** Column Component
 The second column in the Project Board. This column is responsible for containing all cards (tasks) that a team is actively working on.
 
 These cards are under the **In progress** column. This means that these would be cards (tasks) that have been assigned to one or more members of the team and the assignees are currently working on completing the card (task).
 
-### <a name="gpcomponents-done-column"></a> 4. **Done** Column
+### <a name="gpcomponents-done-column"></a> **Done** Column Component
 The third, and final, column in the Project Board. This column is responsible for containing all cards (tasks) that a team has completed.
 
 These cards are under the **Done** column. This means that these would be cards (tasks) that have been assigned to one or more members of the team and the assignees have completed the card (task).
 
 ## <a name="guidelines"></a> Guidelines
-There are 4 guidelines you should always follow:
+There are 4 guidelines you should always follow. Namely:
 
-### 1. Card Format (Team Without Repository)
+- [Card Format (Team Without Repository) Guideline](#cf-guideline)
+- [Card Format (Team With Repository) Guideline](#cfr-guideline)
+- [Card Assignments Guideline](#ca-guideline)
+- [Card Transfer Guideline](#ct-guideline)
+
+### <a name="cf-guideline"></a> Card Format (Team Without Repository) Guideline
 Each card should have a basic format that remains consistent. Here's how a template for a team without a repository should look like:
 
 ```markdown
@@ -88,17 +93,17 @@ Requirements:
 - [ ] Add guidelines section
 ```
 
-### 2. Card Format (Team With Repository)
+### <a name="cfr-guideline"></a> Card Format (Team With Repository) Guideline
 Each card should have a basic format that remains consistent. The format shown in the *Card Format (Team Without Repository)* guideline above should be also used for teams that have one or more repositories.
 
 In addition, the cards can be linked to issues and PRs created under that team's repositories.
 
-### 3. Card Assignments
+### <a name="ca-guideline"></a> Card Assignments Guideline
 Cards should be assigned to one or more team members before being transferred to the **In progress** column.
 
 **NOTE:** Each member of a team should be assigned to a card. You cannot do any work in the team unless you have been assigned to a card. Each assignee should focus on completing the task assigned to them.
 
-### 4. Card Transfer
+### <a name="ct-guideline"></a> Card Transfer Guideline
 Card transfers to **To Do** should occur only if a new task is required.
 
 Card transfers to **In progress** should occur only if a card has been assigned to one or more members of the team.
