@@ -6,7 +6,7 @@ For quick navibation:
 - [Welcome](#welcome)
 - [Overview](#overview)
 - [The Teams](#teams)
-- [Code of Conduct(#coc)
+- [Code of Conduct](#coc)
 
 ## <a name="welcome"></a> Welcome
 Welcome to the HNG Team Fury organization. This is where we will all (backend, frontend, mobile, and design) be coordinating and sharing our work.
@@ -21,15 +21,15 @@ There are mainly 4 active teams. The other non-active teams are there to support
 
 ### Active Teams
 
-1. Backend Team
-2. Design Team
-3. Frontend Team
-4. Mobile Team
+1. [Backend Team](https://github.com/orgs/hng-teamfury-org/teams/backend-team)
+2. [Design Team](https://github.com/orgs/hng-teamfury-org/teams/design-team)
+3. [Frontend Team](https://github.com/orgs/hng-teamfury-org/teams/frontend-team)
+4. [Mobile Team](https://github.com/orgs/hng-teamfury-org/teams/mobile-team)
 
 ### Non-Active Teams
 
-1. Executive Team
-2. DevOps Team
+1. [Executive Team](https://github.com/orgs/hng-teamfury-org/teams/executive-team)
+2. [DevOps Team](https://github.com/orgs/hng-teamfury-org/teams/devops-team)
 
 ## <a name="coc"></a> Code of Conduct
 Please read HNG Team Fury's Code of Conduct. It is important that you follow the code to ensure that everyone remains professional and fair. 
