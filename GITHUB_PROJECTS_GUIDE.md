@@ -96,6 +96,8 @@ In addition, the cards can be linked to issues and PRs created under that team's
 ### 3. Card Assignments
 Cards should be assigned to one or more team members before being transferred to the **In progress** column.
 
+**NOTE:** Each member of a team should be assigned to a card. You cannot do any work in the team unless you have been assigned to a card. Each assignee should focus on completing the task assigned to them.
+
 ### 4. Card Transfer
 Card transfers to **To Do** should occur only if a new task is required.
 
