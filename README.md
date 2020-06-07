@@ -1,7 +1,7 @@
 # Executive
 The main executive repository. This is the main entry point to the executive, and other, communications.
 
-For quick navibation:
+For quick navigation:
 
 - [Welcome](#welcome)
 - [Overview](#overview)
